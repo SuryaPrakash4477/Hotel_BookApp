@@ -1,0 +1,10 @@
+User can see the list of the Hotels
+User can book a Hotels
+User can get a reservation confirmation
+
+
+
+Classes:
+User 
+Hotel
+ReservationTicket
